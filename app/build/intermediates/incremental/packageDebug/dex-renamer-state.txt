@@ -1,4 +1,7 @@
-#Sun Jan 28 13:37:02 MSK 2018
-base.0=/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Mar 15 20:35:34 MSK 2018
+base.0=/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac80d91868aaeaed622fafca07d8f5e24239a6ed
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7a2894cc2bd53c06002ac6063cfebc8f05e26852/classes.dex
+base.1=/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7a2894cc2bd53c06002ac6063cfebc8f05e26852
+file.0=/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac80d91868aaeaed622fafca07d8f5e24239a6ed/classes.dex

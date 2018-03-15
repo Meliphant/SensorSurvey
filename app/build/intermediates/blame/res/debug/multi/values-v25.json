@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+        "outputFile": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 121
                 },
                 "from": {
-                    "file": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 303
                 },
                 "from": {
-                    "file": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 414
                 },
                 "from": {
-                    "file": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/values-v25/values-v25.xml",
+                    "file": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/values-v25/values-v25.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

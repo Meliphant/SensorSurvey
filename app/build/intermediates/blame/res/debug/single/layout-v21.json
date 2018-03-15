@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/layout-v21/notification_action.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

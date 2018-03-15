@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/aleksei/.android/build-cache/df6357ce7d6553a50c4305c645a8d52d7b541472/output/res/values/values.xml",
+                    "file": "/Users/nikitazayakin/.android/build-cache/756c1bcd6fe9a593e17b5cb0561ede0ac08c545b/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,42 +1,42 @@
 [
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_fade_in.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_fade_out.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/anim/abc_popup_exit.xml"
     }
 ]

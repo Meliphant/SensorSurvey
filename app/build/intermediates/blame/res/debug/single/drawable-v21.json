@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/Users/nikitazayakin/Projects/AndroidStudioProjects/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/nikitazayakin/.android/build-cache/205f070add5b924c4b7f8dbe9971c3c2d993d80c/output/res/drawable-v21/abc_btn_colored_material.xml"
     }
 ]
